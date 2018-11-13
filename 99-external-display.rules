@@ -1,0 +1,1 @@
+SUBSYSTEM=="drm", ACTION=="add", RUN+="/home/development/.resize-windows.sh" OPTIONS="last_rule"
